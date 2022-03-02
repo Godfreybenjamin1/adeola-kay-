@@ -10,4 +10,5 @@
  -Tourism
  -About
  -Contact
-
+-mission
+-vision
