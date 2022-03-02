@@ -1,2 +1,4 @@
 #adeoka kay 
- This is adeola kay readme file
+ 
+This website will contain mission statement 
+About us
