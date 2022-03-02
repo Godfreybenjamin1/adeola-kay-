@@ -1,2 +1,13 @@
-#adeoka kay 
- This is adeola kay readme file
+#Readme
+ 
+ #adeola kay
+
+ An Educational and Tourism Website
+
+ ##Features
+ -Home
+ -Education
+ -Tourism
+ -About
+ -Contact
+
